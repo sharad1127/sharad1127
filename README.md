@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Cars website**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Sharadsingh1127@gmail.com</h3>
 <p align="left">
 </p>
 
