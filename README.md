@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Sharad kumar singh</h1>
 <h3 align="center">A passionate frontend developer & data scientist from India.</h3>
-<img align="right" alt="Coder" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fpowerart%2Fpowerart1708%2Fpowerart170804949%2F84519682-isolated-programmer-icon-symbol-on-clean-background-vector-coder-element-in-trendy-style-.jpg&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_84519682_isolated-programmer-icon-symbol-on-clean-background-vector-coder-element-in-trendy-style.html&tbnid=gRJP4hxPDSjelM&vet=12ahUKEwiHwZ-lxMH7AhUsKbcAHSUGCu0QMygaegUIARCnAg..i&docid=yqWjMAkT5qyHKM&w=1300&h=1300&q=Coderimages&ved=2ahUKEwiHwZ-lxMH7AhUsKbcAHSUGCu0QMygaegUIARCnAg" />
+<img align="right" alt="/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharad1127&label=Profile%20views&color=0e75b6&style=flat" alt="sharad1127" /> </p>
 
