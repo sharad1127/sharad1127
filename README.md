@@ -19,13 +19,6 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Sharad's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="add your link here">
-  <img align="left" alt="Shubham's Telegram" width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="add your link here">
-  <img align="left" alt="Shubham | Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
 <a href="mailto:sharadkumar@techis.io">
   <img align="left" alt="Shubham's Email" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -41,7 +34,7 @@ A Skilled FullStack Web Developer 🚀 from India. Always working on some projec
 <br/>
 Stacks I have worked with : React-Redux
 <br/>  
-Things I am currently experimenting with : HTML, CSS, JavaScript, Django, React, Redux
+Things I am currently experimenting with : HTML, CSS, JavaScript, Django, React, Redux , Machine learning , Deep learning , Artifical intelligence , Open CV , 
 <br/>
 Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Source Contributor for Nature thru Web Tech 💚.
 </p>
@@ -79,10 +72,10 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sharad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshrivastava600/)](https://www.linkedin.com/in/sharad-singh-79a994258/) or [![Gmail Badge](https://img.shields.io/badge/-sharadkumar@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhams@techis.io)](mailto:sharadkumar@techis.io)
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sharad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharad1127/)](https://www.linkedin.com/in/sharad-singh-79a994258/) or [![Gmail Badge](https://img.shields.io/badge/-sharadkumar@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhams@techis.io)](mailto:sharadkumar@techis.io)
 
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sharad?label=Follow&style=social)](https://github.com/shubhams83/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mrkunjiraman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sharad?label=Follow&style=social)](https://github.com/sharad1127/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mrkunjiraman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
 
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Sharad1127-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sharad-singh-79a994258/)](https://www.linkedin.com/in/sharad-singh-79a994258/)
