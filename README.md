@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sharad singh
 - 👀 I’m interested in Web Development , Data science & technologies
 - 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
-- 💞️ I’m looking to collaborate with someone who is working on Web Application Project.
 - 📫 How to reach me - github id - sharad1127
 
 <!---
