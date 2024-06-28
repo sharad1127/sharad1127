@@ -43,7 +43,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [BCD TRAVEL](https://BCD TRAVEL/)
+- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [BCD TRAVEL](https://BCDTRAVEL/)
 
 - 📫 How to reach me: Sharadsingh1127@gmail.com
 - 📝 [Resume](add your link here)
