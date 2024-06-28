@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sharad singh
-- 👀 I’m interested in Web Development , Data science & technologies
-- 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
-- 📫 How to reach me - github id - sharad1127
+* 👋 Hi, I’m Sharad singh
+* 👀 I’m interested in Web Development , Data science & technologies
+* 🌱 I’m currently working on Self-Development -  Website - Django API + React & Redux - Cars website.
+* 📫 How to reach me - github id - sharad1127
 
 <!---
 sharad1127/sharad1127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
