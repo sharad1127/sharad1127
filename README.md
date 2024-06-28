@@ -72,7 +72,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 ###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sharad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharad1127/)](https://www.linkedin.com/in/sharad-singh-79a994258/) or [![Gmail Badge](https://img.shields.io/badge/-sharadkumar@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhams@techis.io)](mailto:Sharadsingh127@gmail.com)
 
 
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sharad?label=Follow&style=social)](https://github.com/sharad1127/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mrkunjiraman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sharad?label=Follow&style=social)](https://github.com/sharad1127/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@Sharadsingh1127-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
 
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Sharad1127-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sharad-singh-79a994258/)](https://www.linkedin.com/in/sharad-singh-79a994258/)
