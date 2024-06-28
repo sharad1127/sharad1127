@@ -43,9 +43,9 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [TECHIS](https://techis.io/)
+- 👨🏽‍💻 I’m currently working as a Full Stack Web Developer @ [BCD TRAVEL](https://BCD TRAVEL/)
 
-- 📫 How to reach me: sharadkumar@techis.io
+- 📫 How to reach me: Sharadsingh1127@gmail.com
 - 📝 [Resume](add your link here)
 
 ### 🛠️ Languages and Tools:
@@ -56,7 +56,6 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -70,7 +69,7 @@ Want to become an Entrerpreneur for Environmental Services 🌳 and an Open Sour
 
 
 
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sharad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharad1127/)](https://www.linkedin.com/in/sharad-singh-79a994258/) or [![Gmail Badge](https://img.shields.io/badge/-sharadkumar@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhams@techis.io)](mailto:sharadkumar@techis.io)
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Sharad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharad1127/)](https://www.linkedin.com/in/sharad-singh-79a994258/) or [![Gmail Badge](https://img.shields.io/badge/-sharadkumar@techis.io-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhams@techis.io)](mailto:Sharadsingh127@gmail.com)
 
 
 ###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/sharad?label=Follow&style=social)](https://github.com/sharad1127/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@mrkunjiraman-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) if you are on a similar path as mine.
